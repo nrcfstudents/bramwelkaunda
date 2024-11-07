@@ -1,0 +1,18 @@
+body {
+	color: gold;
+	background-color: red ! important ;
+font-family: arial;
+}
+p {
+	text-align: left;}
+h1 {text-align: center;
+color: blue;
+ 
+ }
+ .first{text-align: left;}
+ h2 {color: yellow;
+
+ }
+ h3{text-align: left;
+ 	color: black;
+ }
