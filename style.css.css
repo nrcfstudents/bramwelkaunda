@@ -1,6 +1,6 @@
 body {
 	color: gold;
-	background-color: red ! important ;
+	background-color: red ;
 font-family: arial;
 }
 p {
@@ -15,4 +15,13 @@ color: blue;
  }
  h3{text-align: left;
  	color: black;
+ }
+ table,th,td {border: 1px solid black;
+width: 100%
+ }
+ nav{text-align: right;
+justify-content: center;
+padding: 1;
+margin: 1;
+font-weight: bold;
  }
